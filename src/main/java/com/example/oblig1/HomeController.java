@@ -25,7 +25,6 @@ public class HomeController {
     public void slettBiletter(){
         alleBiletter.clear();
     }
-
 }
 
 

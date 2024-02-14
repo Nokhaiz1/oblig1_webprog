@@ -111,9 +111,6 @@ function formaterBilett(){
     document.getElementById("utskrift").innerHTML = ut; // Til slutt skriver jeg ut "ut" på siden
 }
 
-
-
-
 function slettBiletter(){
     const slett = confirm("Vil du slette?")
     if (slett){
